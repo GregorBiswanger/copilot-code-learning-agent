@@ -1,0 +1,28 @@
+{
+    // Inline-Vervollständigung aus (Schüler sollen selbst tippen)
+    "github.copilot.enable": {
+        "*": false
+    },
+    "github.copilot.nextEditSuggestions.enabled": false,
+    // Instruction Files + Prompt Files aus dem Repo
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true
+    },
+    "chat.promptFilesLocations": {
+        ".github/prompts": true
+    },
+    // Prompts als empfohlene Start-Aktionen
+    "chat.promptFilesRecommendations": {
+        "start": true,
+        "continue": true,
+        "check": true,
+        "stuck": true
+    },
+    // Agent Mode an, aber sicher
+    "chat.agent.enabled": true,
+    "chat.agent.maxRequests": 6,
+    "chat.tools.global.autoApprove": false,
+    // Workspace-Scaffolding Tool im Chat deaktivieren
+    "github.copilot.chat.newWorkspaceCreation.enabled": false
+}
