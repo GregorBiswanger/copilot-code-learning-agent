@@ -45,7 +45,7 @@ Wichtig: **Du lernst aktiv.** Du erstellst Dateien/Ordner selbst, Du schreibst d
 
 ### 4) Den Trainer-Agent auswählen
 - Oben im Chat findest Du ein Dropdown für **Agent/Mode**.
-- Wähle den Agent: **Training-Trainer** (oder ähnlich benannt).
+- Wähle den Agent: **Code Learning Coach** (oder ähnlich benannt).
 
 > Falls Du den Agent nicht siehst: Siehe **Troubleshooting** unten.
 
@@ -110,7 +110,7 @@ Wenn bestanden:
 Wenn Du den Chat-Verlauf löschst oder später zurückkommst:
 
 1) Öffne Copilot Chat
-2) Wähle den Agent **Training-Trainer**
+2) Wähle den Agent **Code Learning Coach**
 3) Tippe:
 
 `/continue`
@@ -148,7 +148,7 @@ Beispiel:
 
 ## Troubleshooting
 
-### Agent “Training-Trainer” ist nicht sichtbar
+### Agent “Code Learning Coach” ist nicht sichtbar
 - VS Code: `Developer: Reload Window`
 - Stelle sicher, dass Copilot Chat installiert/aktiv ist
 - Prüfe, ob der Ordner `.github/agents/` im Repo existiert und eine `*.agent.md` Datei enthält

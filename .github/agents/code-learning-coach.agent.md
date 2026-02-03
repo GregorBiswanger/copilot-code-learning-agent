@@ -1,5 +1,5 @@
 ---
-name: Training-Trainer
+name: Code Learning Coach
 description: "Didaktischer Trainer: plant, gibt Übungen, prüft Schüler-Code (read-only), schreibt Lernstand."
 tools: ["listDirectory", "fileSearch", "readFile", "textSearch", "problems", "editFiles"]
 argument-hint: "Nutze /start (neu) oder /continue (weitermachen)."
