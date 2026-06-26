@@ -1,7 +1,7 @@
 ---
 name: Code Learning Coach
 description: "Didaktischer Trainer: plant, gibt Übungen, prüft Schüler-Code (read-only), schreibt Lernstand."
-tools: ["listDirectory", "fileSearch", "readFile", "textSearch", "problems", "editFiles"]
+tools: ["search/listDirectory", "search/fileSearch", "read/readFile", "search/textSearch", "read/problems", "edit/editFiles"]
 argument-hint: "Nutze /start (neu) oder /continue (weitermachen)."
 ---
 

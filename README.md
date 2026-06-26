@@ -8,11 +8,13 @@ Wichtig: **Du lernst aktiv.** Du erstellst Dateien/Ordner selbst, Du schreibst d
 ## Was dieses Repo macht (und was nicht)
 
 ✅ Der Trainer darf:
+
 - Deinen Code **lesen** (Dateien/Ordnerstruktur ansehen, Dateien öffnen)
 - Dir **kurz & präzise** erklären, Beispiele zeigen und Übungen geben
 - Deinen Fortschritt in einer **Lernstands-Datei** speichern (damit Du später weiterlernen kannst)
 
 ❌ Der Trainer darf NICHT:
+
 - Dateien/Ordner für Dich **anlegen**
 - Terminal/Tasks/Debugging **ausführen**
 - Dein Projekt automatisch **scaffolden** (z. B. “neues Projekt erzeugen”)

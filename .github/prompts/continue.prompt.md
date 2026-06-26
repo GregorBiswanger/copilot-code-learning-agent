@@ -1,8 +1,8 @@
 ---
 name: continue
 description: "Weiterlernen: Lernstand lesen, nächsten Micro-Step geben, Lernstand aktualisieren"
-agent: "Training-Trainer"
-tools: ["readFile", "editFiles"]
+agent: "Code Learning Coach"
+tools: ["read/readFile", "edit/editFiles"]
 ---
 
 1) Lies `99-learning-state.instructions.md`.

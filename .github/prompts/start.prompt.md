@@ -1,8 +1,8 @@
 ---
 name: start
 description: "Erststart: Begrüßung, Lernziel klären, Plan erstellen, Lernstand speichern"
-agent: "Training-Trainer"
-tools: ["readFile", "editFiles"]
+agent: "Code Learning Coach"
+tools: ["read/readFile", "edit/editFiles"]
 argument-hint: "Was willst du lernen? (Thema, Sprache/Stack, Niveau, Zieltermin)"
 ---
 

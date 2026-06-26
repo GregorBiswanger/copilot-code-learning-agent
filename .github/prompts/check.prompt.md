@@ -1,8 +1,8 @@
 ---
 name: check
 description: "Prüfen & Freischalten: Code/Struktur lesen, Feedback geben, Step DONE setzen"
-agent: "Training-Trainer"
-tools: ["listDirectory", "fileSearch", "readFile", "textSearch", "problems", "editFiles"]
+agent: "Code Learning Coach"
+tools: ["search/listDirectory", "search/fileSearch", "read/readFile", "search/textSearch", "read/problems", "edit/editFiles"]
 argument-hint: "Schreibe: Welche Step-ID? Welche Dateien soll ich prüfen?"
 ---
 

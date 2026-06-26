@@ -1,8 +1,8 @@
 ---
 name: stuck
 description: "Wenn du feststeckst: validieren, dann Hilfe in Stufen"
-agent: "Training-Trainer"
-tools: ["readFile", "listDirectory", "fileSearch", "readFile", "textSearch", "problems"]
+agent: "Code Learning Coach"
+tools: ["read/readFile", "search/listDirectory", "search/fileSearch", "read/readFile", "search/textSearch", "read/problems"]
 argument-hint: "Erwartung, Ist-Zustand, Fehlermeldung, 2 Versuche, Hypothese"
 ---
 
